@@ -1,4 +1,4 @@
-const allowedOrigins = ['https://digital-signature-frontend.vercel.app/'];
+const allowedOrigins = ['https://digital-signature-nu.vercel.app'];
 
 const corsOptions = {
 	origin: (origin, callback) => {
